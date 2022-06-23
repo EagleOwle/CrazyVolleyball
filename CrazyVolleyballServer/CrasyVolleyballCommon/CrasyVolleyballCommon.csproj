@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="GalaxyCoreCommon">
+      <HintPath>..\..\Core\netstandard2.0\GalaxyCoreCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="GalaxyCoreServer">
+      <HintPath>..\..\Core\netstandard2.0\GalaxyCoreServer.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>..\..\Core\netstandard2.0\protobuf-net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
