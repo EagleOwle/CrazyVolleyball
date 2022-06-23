@@ -1,0 +1,32 @@
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.deps.json
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.pdb
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\GalaxyCoreCommon.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\GalaxyCoreServer.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\protobuf-net.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\GalaxyCoreCommon.xml
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\GalaxyCoreServer.xml
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\protobuf-net.xml
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.csprojAssemblyReference.cache
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.csproj.CoreCompileInputs.cache
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.AssemblyInfoInputs.cache
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.AssemblyInfo.cs
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.csproj.CopyComplete
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.pdb
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.deps.json
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.pdb
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\GalaxyCoreCommon.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\GalaxyCoreServer.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\protobuf-net.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\GalaxyCoreCommon.xml
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\GalaxyCoreServer.xml
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\bin\Debug\netcoreapp2.2\protobuf-net.xml
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.csprojAssemblyReference.cache
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.csproj.CoreCompileInputs.cache
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.AssemblyInfoInputs.cache
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.AssemblyInfo.cs
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.csproj.CopyComplete
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyballCommon\obj\Debug\netcoreapp2.2\CrasyVolleyballCommon.pdb

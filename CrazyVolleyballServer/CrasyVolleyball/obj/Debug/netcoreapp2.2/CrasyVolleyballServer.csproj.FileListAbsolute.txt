@@ -1,0 +1,40 @@
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.csprojAssemblyReference.cache
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.csproj.CoreCompileInputs.cache
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.AssemblyInfoInputs.cache
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.AssemblyInfo.cs
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.deps.json
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.runtimeconfig.json
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.runtimeconfig.dev.json
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\GalaxyCoreCommon.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\GalaxyCoreServer.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\protobuf-net.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.pdb
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\GalaxyCoreCommon.xml
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\GalaxyCoreServer.xml
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\protobuf-net.xml
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.csproj.CopyComplete
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.pdb
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.dll
+e:\Unity\Project\Git\CrasyVolleyball\CrasyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.pdb
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.deps.json
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.runtimeconfig.json
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.runtimeconfig.dev.json
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballServer.pdb
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\GalaxyCoreCommon.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\GalaxyCoreServer.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\protobuf-net.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\CrasyVolleyballCommon.pdb
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\GalaxyCoreCommon.xml
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\GalaxyCoreServer.xml
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\bin\Debug\netcoreapp2.2\protobuf-net.xml
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.csprojAssemblyReference.cache
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.csproj.CoreCompileInputs.cache
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.AssemblyInfoInputs.cache
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.AssemblyInfo.cs
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.csproj.CopyComplete
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.dll
+g:\Unity project\CrazyVolleyball\CrazyVolleyballServer\CrasyVolleyball\obj\Debug\netcoreapp2.2\CrasyVolleyballServer.pdb

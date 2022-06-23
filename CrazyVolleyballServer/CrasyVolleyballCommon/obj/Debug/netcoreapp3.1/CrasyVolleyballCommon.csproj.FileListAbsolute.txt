@@ -1,0 +1,15 @@
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\obj\Debug\netcoreapp3.1\CrasyVolleyballCommon.csproj.AssemblyReference.cache
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\obj\Debug\netcoreapp3.1\CrasyVolleyballCommon.AssemblyInfoInputs.cache
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\obj\Debug\netcoreapp3.1\CrasyVolleyballCommon.AssemblyInfo.cs
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\obj\Debug\netcoreapp3.1\CrasyVolleyballCommon.csproj.CoreCompileInputs.cache
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\bin\Debug\netcoreapp3.1\CrasyVolleyballCommon.deps.json
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\bin\Debug\netcoreapp3.1\CrasyVolleyballCommon.dll
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\bin\Debug\netcoreapp3.1\CrasyVolleyballCommon.pdb
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\bin\Debug\netcoreapp3.1\GalaxyCoreCommon.dll
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\bin\Debug\netcoreapp3.1\protobuf-net.dll
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\bin\Debug\netcoreapp3.1\GalaxyCoreCommon.pdb
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\bin\Debug\netcoreapp3.1\GalaxyCoreCommon.xml
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\bin\Debug\netcoreapp3.1\protobuf-net.xml
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\obj\Debug\netcoreapp3.1\CrasyVolleyballCommon.csproj.CopyComplete
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\obj\Debug\netcoreapp3.1\CrasyVolleyballCommon.dll
+E:\Unity\Project\Git\VolleyballServer\CrasyVolleyball\CrasyVolleyballCommon\obj\Debug\netcoreapp3.1\CrasyVolleyballCommon.pdb
