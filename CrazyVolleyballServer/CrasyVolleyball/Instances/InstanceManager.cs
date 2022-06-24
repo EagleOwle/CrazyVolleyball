@@ -15,8 +15,7 @@ namespace CrasyVolleyballServer.Instances
 
         /// Список клиентов по ид
         /// </summary>
-        ConcurrentDictionary<int, GameRoom> instanceID = new ConcurrentDictionary<int, GameRoom>();
-
+        ConcurrentDictionary<int, Instance> instanceID = new ConcurrentDictionary<int, Instance>();
         public InstanceManager()
         {
            // GalaxyEvents.OnGalaxyInstanceCreate += OnGalaxyInstanceCreate;
@@ -51,10 +50,16 @@ namespace CrasyVolleyballServer.Instances
 
         public bool GetNotFilledInstance(out Instance instance)
         {
+            foreach (var item in instanceID)
+            {
+                Log.Info("Instance Manager - ", "" + item.Value.id);
+            }
+            
             instance = null;
             foreach (var item in instanceID)
             {
-                if (item.Value.IsFull)
+                GameRoom tmp = item.Value as GameRoom;
+                if (tmp.IsFull)
                 {
                     instance = item.Value;
                     return true;
@@ -70,9 +75,13 @@ namespace CrasyVolleyballServer.Instances
         /// <param name="instance"></param>
         public void AddInstance(Instance instance)
         {
+            instanceID.TryAdd(instance.id, instance);
             Log.Info("Server", "Добавлена новая комната ид: " + instance.id);
-            instanceID.TryAdd(instance.id, instance as GameRoom);
             eventInstanceAdd?.Invoke(instance);
+            foreach (var item in instanceID)
+            {
+                Log.Info("Instance Manager - ", " GameRoom -> " + item.Value.id);
+            }
         }
 
         /// <summary>
@@ -81,8 +90,7 @@ namespace CrasyVolleyballServer.Instances
         /// <param name="instance"></param>
         public void RemoveInstance(Instance instance)
         {
-            GameRoom tmp = instance as GameRoom;
-            instanceID.TryRemove(instance.id, out tmp);
+            instanceID.TryRemove(instance.id, out instance);
             eventInstanceRemove?.Invoke(instance);
             Log.Info("Server", "Удалена комната ид: " + instance.id);
         }

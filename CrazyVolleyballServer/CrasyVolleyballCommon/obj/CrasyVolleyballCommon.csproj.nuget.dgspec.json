@@ -1,35 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Unity\\Project\\Git\\VolleyballServer\\CrasyVolleyball\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj": {}
+    "e:\\GitHub\\EagleOwle\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj": {}
   },
   "projects": {
-    "E:\\Unity\\Project\\Git\\VolleyballServer\\CrasyVolleyball\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj": {
+    "e:\\GitHub\\EagleOwle\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Unity\\Project\\Git\\VolleyballServer\\CrasyVolleyball\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj",
+        "projectUniqueName": "e:\\GitHub\\EagleOwle\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj",
         "projectName": "CrasyVolleyballCommon",
-        "projectPath": "E:\\Unity\\Project\\Git\\VolleyballServer\\CrasyVolleyball\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj",
-        "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "E:\\Unity\\Project\\Git\\VolleyballServer\\CrasyVolleyball\\CrasyVolleyballCommon\\obj\\",
+        "projectPath": "e:\\GitHub\\EagleOwle\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "e:\\GitHub\\EagleOwle\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300-preview.21180.15\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
