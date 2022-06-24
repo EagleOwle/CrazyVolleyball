@@ -50,8 +50,6 @@ namespace CrasyVolleyballServer.NetClient
             clientsID.TryAdd(client.id, client);
 
             eventClientAdd?.Invoke(client);
-
-            //if (Server.debugLog) Console.WriteLine("Добавлен новый клиент ид:" + client.id);
         }
 
         /// <summary>
@@ -65,7 +63,6 @@ namespace CrasyVolleyballServer.NetClient
 
             eventClientRemove?.Invoke(client);
 
-            //if (Server.debugLog) Console.WriteLine("Клиент ID:" + client.id + " решил нас покинуть");
             Log.Info("Server", "Клиент решил нас покинуть: " + client.id);
         }
 

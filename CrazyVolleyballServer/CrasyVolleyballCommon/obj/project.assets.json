@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Denis\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "g:\\Unity project\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj",
+      "projectUniqueName": "e:\\Unity\\Project\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj",
       "projectName": "CrasyVolleyballCommon",
-      "projectPath": "g:\\Unity project\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "g:\\Unity project\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\obj\\",
+      "projectPath": "e:\\Unity\\Project\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\CrasyVolleyballCommon.csproj",
+      "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
+      "outputPath": "e:\\Unity\\Project\\CrazyVolleyball\\CrazyVolleyballServer\\CrasyVolleyballCommon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -27,7 +27,7 @@ public class UIConnect : MonoBehaviour
         //Создаем новое сообщение аунтефикации, которое мы положили в GalaxyTemplateCommon
         MessageAuth messageAuth = new MessageAuth();
         status.text = "Disconnect";
-        messageAuth.login = "Pastor";
+        messageAuth.login = "Client";
         messageAuth.password = "True";
         GalaxyApi.connection.Connect(messageAuth); // Отправляем запрос на сервер    
         processConnect.SetActive(true);

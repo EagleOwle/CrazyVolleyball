@@ -34,13 +34,15 @@ namespace CrasyVolleyballServer.Connecting
             }
             #endregion
 
+            // Получаем ид, сюда следует подставить реальный ид клиента по базе
+            int clientID = Tools.GetNewID();
+
             //Создадим пакет который мы отправим клиенту вместе с разрешением коннекта
             var response = new MessageApproval
             {
-                Name = message.login
+                Name = message.login + clientID
             };
-            // Получаем ид, сюда следует подставить реальный ид клиента по базе
-            int clientID = Tools.GetNewID();
+
 
             // ClientConnection connection;  
             // Create your own client implementation
@@ -48,7 +50,19 @@ namespace CrasyVolleyballServer.Connecting
             // возвращяем данные вместе с разрешением, так же мы получим уже рабочий экземпляр авторизированного соеденения 
             // так же приклепляем собственную реализацию клиента, для того что бы в бущем, можно было её оперативно получить из коннекшена
             approvalConnection.Approve(response, clientID, client);
-            Log.Debug("OnGalaxyConnect", "Client " + clientID + " connected");
+            Log.Info("OnGalaxyConnect", "Client" + response.Name + " connected");
+
+            Server.clientManager.AddClient(client);
+
+            if (Server.instanceManager.GetNotFilledInstance(out Instance instance))
+            {
+                instance.AddClient(client);
+            }
+            else
+            {
+                GalaxyCore.instances.Create("GameRoom", 2, 0, null, (Client)client);
+                Server.instanceManager.AddInstance(client.instanse);
+            }
         }
 
         #region Original

@@ -1,4 +1,4 @@
-﻿using GalaxyCoreServer; 
+﻿using GalaxyCoreServer;
 
 namespace CrasyVolleyballServer.Instances
 {
@@ -33,6 +33,23 @@ namespace CrasyVolleyballServer.Instances
         public override void Update()
         {
             //throw new System.NotImplementedException();
+        }
+
+        public bool IsFull
+        {
+            get
+            {
+                if (clients.Count == maxClients)
+                {
+                    return true;
+                }
+                else
+
+                {
+                    return false;
+                }
+            }
+
         }
     }
 }

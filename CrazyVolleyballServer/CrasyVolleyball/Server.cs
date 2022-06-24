@@ -1,4 +1,5 @@
 ﻿using CrasyVolleyballServer.Connecting;
+using CrasyVolleyballServer.Instances;
 using CrasyVolleyballServer.NetClient;
 using GalaxyCoreServer;
 using GalaxyCoreServer.Api;
@@ -40,11 +41,12 @@ namespace CrasyVolleyballServer
         internal static bool debugLog = true;
 
         internal static ClientManager clientManager = new ClientManager();
+        internal static Instances.InstanceManager instanceManager = new Instances.InstanceManager();
 
         public Server()
         {
             config.incomingMessage = inMessages; // Регистрируем обработчик входящих сообщений
-            GalaxyEvents.OnGalaxyInstanceCreate += OnGalaxyInstanceCreate; //Отлавливаем событие создания нового инстанса
+            //GalaxyEvents.OnGalaxyInstanceCreate += OnGalaxyInstanceCreate; //Отлавливаем событие создания нового инстанса
 
             //Задаем имя сервера
             //Важно что бы имя сервера совпадало с именем указанным в клиенте
@@ -55,16 +57,16 @@ namespace CrasyVolleyballServer
             GalaxyCore.Start(config); // Запускаем сервер         
         }
 
-        /// <summary>
-        /// Это пример переопределения стандартной реализации инстанса по пользовательскому коду типа
-        /// </summary>
-        /// <param name="type">пользовательский код типа инстанса</param>
-        /// <param name="data">массив байт дополнительной информации приложеной к запросу создания</param>
-        /// <param name="client">клиент отправивший запрос</param>
-        /// <returns>Вернуть любого наследника класса Inctance</returns>
-        private Instance OnGalaxyInstanceCreate(byte type, byte[] data, Client client)
-        {
-            return new GameRoom();
-        }
+        ///// <summary>
+        ///// Это пример переопределения стандартной реализации инстанса по пользовательскому коду типа
+        ///// </summary>
+        ///// <param name="type">пользовательский код типа инстанса</param>
+        ///// <param name="data">массив байт дополнительной информации приложеной к запросу создания</param>
+        ///// <param name="client">клиент отправивший запрос</param>
+        ///// <returns>Вернуть любого наследника класса Inctance</returns>
+        //private Instance OnGalaxyInstanceCreate(byte type, byte[] data, Client client)
+        //{
+        //    return new GameRoom();
+        //}
     }
 }
